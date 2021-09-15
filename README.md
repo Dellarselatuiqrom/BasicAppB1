@@ -1,1 +1,1 @@
-# BasicAppxB1 as a project APLAS POLINEMA, from course mobile programming.
+# BasicAppB1 is a project APLAS POLINEMA, from course mobile programming.
